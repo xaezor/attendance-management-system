@@ -102,6 +102,6 @@ attendance-management-system/
 
 The Attendance Management System is designed to streamline attendance tracking, provide actionable insights, and reduce administrative workload for educational institutions.
 
-**Developed by School Management Solutions**
+**Created BY AJ**
 
-© 2023 All Rights Reserved
+***NOTE : This project was generated using Ai So it may contains bugs, please fix it on your own***
