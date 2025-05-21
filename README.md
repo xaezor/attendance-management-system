@@ -104,4 +104,3 @@ The Attendance Management System is designed to streamline attendance tracking, 
 
 **Created BY AJ**
 
-***NOTE : This project was generated using Ai So it may contains bugs, please fix it on your own***
